@@ -1,0 +1,12 @@
+.dashboard {
+  width: 100%;
+  padding: 2em 0;
+}
+
+.dashboard__event-title,
+.dashboard__event-description,
+.dashboard__event-score {
+  width: 75%;
+  margin: 1em auto;
+  text-align: center;
+}
